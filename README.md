@@ -20,7 +20,7 @@ URL Encoding (Web Pentest Bypass)
 ROT13 (Classic Cipher)
 
 📥 Nasıl Kullanılır?
-Sağ taraftaki Releases bölümüne gidin.
+Üst Taraftan Dosyayı İndirin
 
 AsyncCrypt_v2.exe dosyasını indirin.
 
